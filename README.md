@@ -20,9 +20,4 @@ Contents of the Repository
 
          Description: A concise graphical summary of the manuscript, highlighting the key design and results.
 ________________________________________
-Prerequisites
-To run the Python script, ensure the following are installed:
-Python 3.8 or higher
-Required Python libraries: numpy, matplotlib, and scipy
-You can install the dependencies by running:
-pip install numpy matplotlib scipy
+
