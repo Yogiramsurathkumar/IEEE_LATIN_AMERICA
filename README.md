@@ -6,7 +6,7 @@ Contents of the Repository
 
          File Name: Filter_design
 
-         Description: This script provides the design of a proposed filter. 
+         Description: This script provides the design of the proposed filter. 
 
          Use HFSS to design the filter and generate the data.
 3.	S-Parameter Results
