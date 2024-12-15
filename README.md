@@ -4,7 +4,7 @@ ________________________________________
 Contents of the Repository
 1.	Python Script
 
-         File Name: Filter_design
+         File Name: Filter_Design
 
          Description: This script provides the design of the proposed filter. 
 
