@@ -3,9 +3,12 @@ This repository contains resources for “Compact Ultra-Wide-Stopband Microwave 
 ________________________________________
 Contents of the Repository
 1.	Python Script
-2.	File: Filter_design
-Description: This script provides the design of a proposed filter. 
-Use HFSS to design the filter and generate the data.
+
+      (a) File: Filter_design
+
+  	  (b) Description: This script provides the design of a proposed filter. 
+
+  	  (c) Use HFSS to design the filter and generate the data.
 3.	S-Parameter Results
 File: S_parameters.txt
 Description: This file contains the S-parameter results of the proposed filter design.
